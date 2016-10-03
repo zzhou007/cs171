@@ -1,0 +1,14 @@
+zihang zhou
+861090400
+April 30, 2016
+CS171
+PS 3
+﻿Problem 2
+There are different classifiers depending on the inputs. 
+Your starting w0 and step size changes how long the algorithm will run.
+Problem 3
+I picked a quadratic curve because it is able to fit the points the best.
+When comparing curves to best fit the points, I found a quadratic with a low lambda fit the most points.
+I compared a quadratic curve with a high lambda to help prevent over-fitting.
+A quadratic with a high lambda still won over a linear curve. 
+
